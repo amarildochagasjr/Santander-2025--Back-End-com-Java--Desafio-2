@@ -7,7 +7,7 @@
   <img src="assets/backend com java.png" alt="Bootcamp Logo" width="100"/>
 </p>
 
-# 📌 Projeto DesafioControleFluxo
+# 📌 Projeto Desafio ControleFluxo
 
 Este projeto foi desenvolvido como parte do desafio **Controle de Fluxo** do Bootcamp DIO.  
 O objetivo é exercitar o conteúdo do módulo de Controle de Fluxo, criando um programa que recebe dois números inteiros via terminal e imprime uma sequência de números com base na diferença entre eles.
