@@ -4,7 +4,7 @@
   <br/>
   <br/>
   <br/>
-  <img src="assets/backend-com-java.png" alt="Bootcamp Logo" width="100"/>
+  <img src="assets/backend com java.png" alt="Bootcamp Logo" width="100"/>
 </p>
 
 # 📌 Projeto DesafioControleFluxo
@@ -38,6 +38,7 @@ O programa realiza as seguintes operações:
 3️⃣ O sistema valida os parâmetros:  
    - Se o segundo número for menor ou igual ao primeiro, uma exceção será lançada.  
    <img src="assets/exceptionOk.png" alt="image" width="750"/>
+   
    - Se for maior, o programa imprime a sequência de números até o valor da diferença.
    <img src="assets/tryOk.png" alt="image" width="750"/>
 
